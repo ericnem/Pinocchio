@@ -1,0 +1,8 @@
+Name,Username,Password,Bio,Followers,Following,Profile Picture,Background Picture,FR
+Joe Rogan,joerogan,elkmeat,Podcaster and wrestling commentator,9100000,3879,src/Pictures/joeroganpp.jpeg,src/Pictures/sus.jpeg,false
+Donald Trump,trumptydumpty,great,MAGA,88700000,106,src/Pictures/donaldtrumppp.jpeg,src/Pictures/donaldtrumpbp.jpeg,false
+Justin Trudeau,justintrudeau,eh,Sorry!,6100000,940,src/Pictures/justintrudeaupp2.png,src/Pictures/justintrudeaubp.png,false
+Elon Musk,elonmusk,X Æ A-Xii,Bitcoin bad,97800000,106,src/Pictures/elonmuskpp.png,src/Pictures/elonmuskbp.jpeg,false
+Warren Buffet,warrenbuffet,$$,Work smart not hard,88700000,112,src/Pictures/warrenbuffetpp.jpeg,src/Pictures/warrenbuffetbp.png,true
+Christo Grozev,christogrozev,sherlock,"The terror for all things secret",451100,1111,src/Pictures/christogrozevpp.jpeg,src/Pictures/christogrozevbp.jpg,false
+Steven Pinker,stevenpinker,availabilityheuristic,Cognitive scientist at Harvard,772500,76,src/Pictures/stevenpinkerpp.jpeg,src/Pictures/stevenpinkerbp.jpeg,false
