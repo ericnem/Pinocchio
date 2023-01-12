@@ -1,3 +1,4 @@
 # Pinocchio
 Offline app prototype for Pinocchio - a social media platform for users to post their predictions and be rated based on the accuracy of their forecasting.
-<img src = "https://user-images.githubusercontent.com/104458293/212201813-55c08d1b-bd74-4192-af37-4e7f1e9a2f80.png" alt = "screenshot" height = 200>
+
+<img src = "https://user-images.githubusercontent.com/104458293/212201813-55c08d1b-bd74-4192-af37-4e7f1e9a2f80.png" alt = "screenshot" height = 400>
